@@ -5,6 +5,9 @@ org.opengis.cite.iso19142.basic.filter.spatial
 org.opengis.cite.iso19142.basic.filter.temporal
 org.opengis.cite.iso19142.joins
 org.opengis.cite.iso19142.locking
+org.opengis.cite.iso19142.paging
+org.opengis.cite.iso19142.querymgmt
 org.opengis.cite.iso19142.simple
 org.opengis.cite.iso19142.transaction
 org.opengis.cite.iso19142.util
+org.opengis.cite.iso19142.versioning
